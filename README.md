@@ -1,2 +1,1 @@
-# SRM-BootCamp
-For SRMBootCamp OOPS Use Case 
+# JAVA Practice Problems Solutions
